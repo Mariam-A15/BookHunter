@@ -17,5 +17,5 @@ A Python project for scraping all books from [Books to Scrape](https://books.tos
 - `NoteBook.ipynb` 
 - `Srap_Library.py'
 
-## 👩‍💻 Author
+# Author
 **Mariam Adel**
